@@ -1,0 +1,11 @@
+# Block everything by default
+*
+
+# Allow directories to be scanned
+!*/
+
+# Allow only necessary production files
+!.gitignore
+!CNAME
+!index.html
+!portrait*
