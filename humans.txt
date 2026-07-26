@@ -1,0 +1,13 @@
+/* TEAM */
+
+Name: Akın Can Şenol
+Role: Independent Builder
+
+/* SITE */
+
+Version: 2026
+Built with: HTML, CSS, JavaScript
+Hosting: Cloudflare Pages
+
+"From the outside, these might seem like entirely disconnected pursuits.
+To me, they have always been different instruments of the exact same curiosity."

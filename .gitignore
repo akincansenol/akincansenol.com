@@ -2,10 +2,12 @@
 *
 
 # Allow directories to be scanned
-!*/
+!*/p/
 
 # Allow only necessary production files
 !.gitignore
 !CNAME
 !index.html
 !portrait*
+!readme.md
+!humans.txt
